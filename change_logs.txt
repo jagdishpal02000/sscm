@@ -1,0 +1,10 @@
+botj_0.71 : Manually Captcha filling added(with time to wait)
+botj_0.72(a): Time to wait removed.....Dynamic waiting added.
+botj_0.72(b) : autoclick on Captcha input button, added.
+botj_0.72(c) : Destination State Selection, added.
+botj_0.72(d) : secondary bot feature added. autoclick on Captcha input button,solved. automatically sending mouse pointer to yes button.
+botj_0.72(e) : full screen disabled, Automatically clicking on "Yes" after pressing the "ENTER" button.
+botj_0.80 : bid filling speed has been optimized, captcha can be filled only onces.
+botj_0.81 : time taken to click on captcha inputbox has been reduced.
+botj_0.90 : Captcha will be filled automatically.
+botj_0.91 : 52 more captcha added.
